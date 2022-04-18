@@ -1,0 +1,47 @@
+1. Go to your local directory 
+2. Right click and click on 'Git Bash here'
+Type below commands..
+
+3. git config --global user.name "First Name"
+4. git config --global user.email "email address"
+6. git clone https://youtube.com/playlist?list=PLFGoYjJG_fqq6cHeqfsDes3pdVh3kpl74
+
+Framework wil be copied (cloned) to your local directory
+
+7. Open eclipse and click on File -> import -> click on Maven folder -> click on Existing Maven project -> Click Next -> Browse to Automation framework from local directory -> Finish
+8. Wait for some time to download all dependencies and workspace configuration
+9. Framework will be added into eclipse
+
+10. Start automating test cases (Page classes and TestNG test scripts)
+11. Add these into testng.xml and run test suite
+12. Right click on Framework -> click on 'Show In' and select 'System Explorer'
+13. It will navigate to local directory. Click on Hybrdi framework folder
+14. Right click and open Git Bash
+
+To create your branch use below command
+git branch yourName
+git checkout yourName
+
+You will chckout to your branch from master.
+To push changes to your branch use below commands.
+
+15. git add .
+16. git commit -m "Write proper commit message--Eg. Added login test case"
+17. git push -u origin branchname
+
+18. Login to Github popup - token = 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
+
+19. Click login
+
+you will see your changes updated in github branch
+
+
+
+----------------------------- Enjoy Automation ---------------------------------
+
+
+Solution:
+
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
+
+Next remove the Github keys.
