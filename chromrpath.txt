@@ -1,0 +1,23 @@
+"C:\Program Files""D:\chromedriver.exe"
+"C:\Users\Priti Mete\Downloads\chromedriver_win32 (1).zip""E:\chromedriver.exe"
+"C:\Users\Priti Mete\Downloads\selenium-server-standalone-2.53.1.jar"
+"C:\Users\Priti Mete\Downloads\chromedriver_win32 (2)\chromedriver.exe"
+"C:\Users\Priti Mete\Downloads\chromedriver_win32\chromedriver.exe"
+"C:\Users\Priti Mete\Downloads\chromedriver_win32 (2)\chromedriver.exe"
+"D:\selenium-firefox-driver-2.24.1-sources.jar"
+"D:\geckodriver.exe"
+
+
+
+
+"C:\Users\Priti Mete\Downloads\selenium-firefox-driver-2.24.1-sources.jar\selenium-firefox-driver-2.24.1-sources.jar"
+"D:\geckodriver.exe"
+"D:\geckodriver.exe"
+
+C:\Program Files\Mozilla Firefox
+
+"D:\geckodriver.exe"
+
+
+https://www.tutorialspoint.com/    //dummy link
+https://admin-demo.nopcommerce.com/login  //dummy Link
