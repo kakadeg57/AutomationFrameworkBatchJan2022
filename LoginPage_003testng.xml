@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="url" value="https://opensource-demo.orangehrmlive.com/index.php/auth/login"></parameter>
+<parameter name="username1" value="Admin"></parameter>
+<parameter name="password1" value="admin123"></parameter>
+<parameter name="username2" value="Admin"></parameter>	
+<parameter name="password2" value="123456"></parameter>
+<parameter name="username3" value="pratik"></parameter>	
+<parameter name="password3" value="admin123"></parameter>
+<parameter name="username4" value="pratik"></parameter>	
+<parameter name="password4" value="123456"></parameter>
+<parameter name="username5" value="Admin"></parameter>	
+<parameter name="password5" value=""></parameter>
+<parameter name="username6" value=""></parameter>	
+<parameter name="password6" value="admin123"></parameter>
+<parameter name="username7" value=""></parameter>	
+<parameter name="password7" value=""></parameter>
+
+
+
+  <test  name="LoginTest">
+    <classes>
+    
+      <class name="sdet.test.LoginTest_003"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
